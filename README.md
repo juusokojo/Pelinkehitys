@@ -13,7 +13,6 @@ tyokalut/          Yksi kansio per työkalu: arvio, käyttöönotto ja valmiit a
 | Työkalu | Mihin | Tyyppi | Hinta | Tila |
 |---|---|---|---|---|
 | [AI-grafiikan työnkulku](tyokalut/ai-grafiikka/README.md) | Yläviistot pikselihahmot ja -ympäristöt tekoälyllä, tyylipassipohja | Ohje + pohja | Työkalut 0–20 $ + PixelLab-tilaus | Ehdotus, ei testattu |
-| [C64-paletti](tyokalut/c64-paletti/README.md) | C64:n 16 väriä Lospec- ja GIMP-muodossa | Palettitiedosto | Ilmainen | Valmis |
 
 ## Uuden työkalun lisääminen
 
