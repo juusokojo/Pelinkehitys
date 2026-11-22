@@ -12,7 +12,7 @@ tyokalut/          Yksi kansio per työkalu: arvio, käyttöönotto ja valmiit a
 
 | Työkalu | Mihin | Tyyppi | Hinta | Tila |
 |---|---|---|---|---|
-| [SpriteCook](tyokalut/spritecook/README.md) | AI-generoidut spritet, animaatiot, tilesetit, UI | Hostattu MCP-palvelin + Claude-plugin | Ilmainen 40 kr/kk, maksulliset 12–100 $/kk | Arvioitu, ei testattu |
+| [C64-paletti](tyokalut/c64-paletti/README.md) | C64:n 16 väriä Lospec- ja GIMP-muodossa | Palettitiedosto | Ilmainen | Valmis |
 
 ## Uuden työkalun lisääminen
 
